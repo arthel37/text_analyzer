@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684266562 source:c:\users\arthe\desktop\c_programy\text_analysis\txt_analysis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
